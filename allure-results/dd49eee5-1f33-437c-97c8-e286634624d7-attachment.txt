@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//input[contains(@id, \"children\")]/following-sibling::button"
+}

@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//button[@data-stid=\"open-room-picker\"]"
+}

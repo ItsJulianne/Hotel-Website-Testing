@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//button[@class=\"onetrust-close-btn-handler onetrust-close-btn-ui banner-close-button ot-close-icon\"]"
+}

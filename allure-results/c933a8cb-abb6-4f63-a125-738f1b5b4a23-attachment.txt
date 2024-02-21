@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "#page-rating-3"
+}

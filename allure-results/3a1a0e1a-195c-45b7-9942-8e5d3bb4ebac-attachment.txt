@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//h4[text()=\"Hotels.com Rewards is now One Key™\"]"
+}
